@@ -1,0 +1,17 @@
+# Environnement virtuel Python
+.venv/
+
+# Fichiers temporaires et caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Fichiers de configuration locaux
+.env
+.DS_Store
+
+# Fichiers générés
+/data/communesdvf2024_clean.csv
+/dashboard/*.pbix
